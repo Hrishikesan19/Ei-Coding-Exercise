@@ -1,5 +1,5 @@
 
-# Singleton Pattern - ConfigManager & Logger Example
+## Singleton Pattern - ConfigManager & Logger Example
 
 **Problem**  
 Certain classes like configuration managers and loggers should have only one instance throughout the application. Creating multiple instances can lead to inconsistent configuration, fragmented logging, and unnecessary resource usage.  
