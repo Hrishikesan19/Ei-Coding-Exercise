@@ -83,6 +83,10 @@ The Virtual Classroom Manager is a terminal-based application designed to simpli
 
 **Others**  
 - `help` → Show this help menu  
-- `exit` → Quit the program  
+- `exit` → Quit the program
+
+## Class Diagram
+<img width="455" height="909" alt="image" src="https://github.com/user-attachments/assets/08201328-3be2-405b-ac36-256ef5f2834d" />
+
 
 ---
